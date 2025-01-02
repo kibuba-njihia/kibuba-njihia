@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Trevor Njihia!
 I'm a passionate **Data Analyst** and **Data Scientist** with expertise in transforming data into actionable insights.
 

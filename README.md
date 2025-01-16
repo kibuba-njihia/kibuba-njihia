@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Trevor Njihia!
-I'm a passionate **Data Analyst** and **Data Scientist** with expertise in transforming data into actionable insights.
+# Hi there 👋, I'm Trevor Kibuba!
+I'm a passionate **Data Scientist** with expertise in transforming data into actionable insights.
 
 ## 🛠️ Skills
 - **Programming**: Python, SQL, R, C#
 - **Data Visualization**: Power BI, Tableau, Excel
-- **Machine Learning**: Scikit-learn, TensorFlow, Hugging Face
+- **Machine Learning**: Neural networks, Scikit-learn, TensorFlow
 - **Big Data**: Hadoop, Spark
 
 ## 📈 Key Projects

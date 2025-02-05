@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Trevor Kibuba!
 I'm a passionate **Data Scientist** with expertise in transforming data into actionable insights.
 
-<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=790b7611zxaw72m3e0galukht75tisvoietrmikrdd72zyao&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" height="40"/>
+<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=790b7611zxaw72m3e0galukht75tisvoietrmikrdd72zyao&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80" height="80"/>
 
 ## 🛠️ Skills
 - **Programming**: Python, SQL, R, C#

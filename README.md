@@ -5,7 +5,7 @@ Let's build data driven solutions.
 
 ## 🛠️ Skills
 - **Programming**: Python, SQL, R, C#
-- **Data Visualization**: Power BI, Tableau, Excel
+- **Data Visualization**: Power BI, Tableau, Looker
 - **Machine Learning**: Neural networks, Scikit-learn, TensorFlow
 - **Big Data**: Hadoop, Spark
 
